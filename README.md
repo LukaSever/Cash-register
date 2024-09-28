@@ -1,4 +1,4 @@
-Cash register ( C# Project )
+Cash register ( C# project )
 
 This program simulates a cash register in a store. 
 At the beginning, you can choose Administration and Statistics. 
